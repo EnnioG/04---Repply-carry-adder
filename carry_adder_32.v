@@ -1,7 +1,7 @@
 module carry_adder( input b1, input b2, input cin, output wire q0, output wire cout );
 
 	wire g, h; // nodos internos
-// hola	
+// hola =P	
 	
 	// para el Q0
 	assign g =  b1^b2;
